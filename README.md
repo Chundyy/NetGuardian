@@ -1,6 +1,2 @@
 # NetGuardian
 
-
-#Cyber
-
-#Cotonetes comprar
