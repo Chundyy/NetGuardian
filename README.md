@@ -1,0 +1,3 @@
+Ideias
+
+- Password autenticator incrptado
