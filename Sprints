@@ -1,0 +1,23 @@
+##Sprint 02
+                           Sprint 2
+
+
+No sprint 2 abordei temas como UML de classes, UML casos de uso e UX/UI
+As atividades de maneira geral foram divididas com base nos conhecimentos e experiência de cada individuo no grupo
+
+
+
+UML de classes
+O UML de classes vai representar a estrutura do nosso sistema, descrevendo as classes e o seu envolvimento entre elas. Foi importante no nosso trabalho pois facilitou a visualização dos componentes e as suas interações. Além disso é muito útil também na distribuição de tarefas e vai promover uma transição mais fácil e simples para o código.
+
+
+UML de casos de Uso
+O UML de casos de uso representou graficamente as interações entre os Users do nosso sistema, mostrando como se podem “movimentar” dentro do nosso sistema. Foi usado para mostrar as principais funcionalidades do sistema. O UML de casos de uso foi uma ferramenta importante para otimizar as características do sistema e para fazer com que o User tenha uma melhor experiencia.
+
+UI/UX
+A UI/UX foram essenciais para criar sistemas funcionais e agradáveis. Na UI focamo-nos no design visual e na organização dos elementos, enquanto na UX tentamos apenas oferecer uma experiência eficiente e simples. Optamos por Interfaces intuitivas aumentando a facilidade no uso das mesmas. E no projeto, o foco foi desenvolver interfaces claras e simples com objetivo de que mesmo que um User não esteja envolvido na área consiga na mesma usar o sistema sem problema nenhum
+
+
+Conclusão 
+Durante a Sprint 2, conseguimos abordar sem problema os principais temas do trabalho UML de classes, UML de Casos de Uso e UI/UX. Através do bom trabalho em equipa e compreensão de todos não tivemos problemas em dividir as tarefas de modo em que cada um abordasse o tema que se sentia mais confortável. O UMLde classes foi fundamental para estruturar o sistema, facilitando a transição para o código e proporcionando uma visão simples e clara dos componentes e suas interações. Já o Diagrama de Casos de Uso  permitiu-nos identificar as funcionalidades principais e garantir que as necessidades dos users fossem atendidas de forma prática e simples. Por fim, a aplicação de UI/UX contribuiu para o desenvolvimento de um sistema funcional, intuitivo e acessível, focado em oferecer uma experiência satisfatória e simples para qualquer user.
+Como resultado, esta Sprint representou um avanço significativo no  do projeto, criando bases sólidas para as próximas etapas e garantindo a qualidade e usabilidade do sistema.
