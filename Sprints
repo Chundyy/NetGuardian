@@ -1,4 +1,34 @@
-                                                             *** Mudança de Script ***
+Sprint 0
+
+Durante estas duas semanas do "Sprint 0", o objetivo será dividir as tarefas entre os membros do grupo e a criação do GitHub para o trabalho, LPL(Levantamento de requisitos, Propriedade intelectual, Limitação de produtos).
+
+Sprint Backlog
+
+Criar pelo menos dois diagramas de classes (UML) para representar a estrutura e a relação entre as principais entidades do projeto. 
+
+Desenvolver um esboço inicial da UI/UX, focando na fase inicial para apresentar a experiência e interface de utilizador de forma preliminar. 
+
+Produzir um LPL (Levantamento de Requisitos, Propriedade Intelectual e Limitações do Produto), identificando as necessidades.  
+
+Sprint Planning
+
+Definir a divisão de tarefas: Cada membro da equipa será designado para um ponto específico da sprint, garantindo que todos os aspetos do projeto sejam abordados de forma eficiente. 
+
+Daily Scrum Meeting
+
+No final destas duas semanas, será fundamental elaborar um relatório de progresso ou realizar uma passagem estruturada de informação para documentar o que foi realizado em comparação com os objetivos definidos 
+Sprint Review
+
+Concluímos todas as tarefas do Sprint 1 dentro do prazo e sem dificuldades, cumprindo os objetivos propostos. Esta fase foi mais superficial, focada em criar as bases do projeto, mas estabeleceu um bom ponto de partida. Para os próximos sprints, será necessário um trabalho mais aprofundado e estruturado, com maior atenção aos detalhes técnicos. O sucesso desta etapa inicial prepara-nos para desafios mais complexos nas próximas fases. 
+
+
+
+Sprint Retrospective
+
+Percebemos as limitações pessoais de cada elemento da equipa e promovemos um espaço para as expor abertamente. Identificámos as áreas em que cada um se sente mais confortável a trabalhar e avaliámos se há necessidade de ajustar posições ou responsabilidades para melhor alinhar as competências individuais com as tarefas atribuídas. Este passo foi fundamental para garantir um ambiente colaborativo e equilibrado. 
+
+
+                                                       *** Mudança de Script ***
 
 ##Sprint 01
 
@@ -79,3 +109,4 @@ A UI/UX foram essenciais para criar sistemas funcionais e agradáveis. Na UI foc
 Conclusão 
 Durante a Sprint 2, conseguimos abordar sem problema os principais temas do trabalho UML de classes, UML de Casos de Uso e UI/UX. Através do bom trabalho em equipa e compreensão de todos não tivemos problemas em dividir as tarefas de modo em que cada um abordasse o tema que se sentia mais confortável. O UMLde classes foi fundamental para estruturar o sistema, facilitando a transição para o código e proporcionando uma visão simples e clara dos componentes e suas interações. Já o Diagrama de Casos de Uso  permitiu-nos identificar as funcionalidades principais e garantir que as necessidades dos users fossem atendidas de forma prática e simples. Por fim, a aplicação de UI/UX contribuiu para o desenvolvimento de um sistema funcional, intuitivo e acessível, focado em oferecer uma experiência satisfatória e simples para qualquer user.
 Como resultado, esta Sprint representou um avanço significativo no  do projeto, criando bases sólidas para as próximas etapas e garantindo a qualidade e usabilidade do sistema.
+  
