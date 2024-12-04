@@ -99,25 +99,30 @@ Percebemos as limitações pessoais de cada elemento da equipa e promovemos um e
 
 ##Sprint 02
                            Sprint 2
+Sprint 02
+Durante estas duas semanas do "Sprint 2", o objetivo será dar continuidade ao trabalho iniciado no Sprint 1, aprofundando os diagramas e a arquitetura do projeto, além de focar na implementação da interface e experiência do utilizador (UI/UX). Paralelamente, a equipa irá refinar as ideias e avançar no desenvolvimento dos aspetos técnicos e funcionais do sistema. No final, será dada atenção às questões relacionadas com o próximo sprint, garantindo o progresso contínuo e alinhado com os objetivos definidos.
 
+Sprint Backlog
+Criar e detalhar o diagrama UML de classes, representando a estrutura do sistema e as relações entre as principais classes.
+Desenvolver o diagrama UML de casos de uso, descrevendo as interações dos utilizadores com o sistema e as funcionalidades principais.
 
-No sprint 2 abordei temas como UML de classes, UML casos de uso e UX/UI
-As atividades de maneira geral foram divididas com base nos conhecimentos e experiência de cada individuo no grupo
+Criar o esboço inicial da UI/UX, focando numa interface simples e funcional, com a usabilidade em mente.
+Elaborar um relatório sobre as decisões de design, abordando os aspetos técnicos e a experiência do utilizador.
+Produzir um levantamento de requisitos mais detalhado, considerando aspetos técnicos e de usabilidade, e identificando quaisquer limitações do sistema.
+Preparar uma apresentação que aborde os avanços do projeto, com destaque para a arquitetura, as funcionalidades e os pontos de desenvolvimento.
+Sprint Planning
 
+Divisão de tarefas:
+Cada membro da equipa será responsável por uma parte específica do projeto. As atividades serão distribuídas com base nas áreas de competência de cada um, garantindo que o trabalho seja eficiente e de alta qualidade.
+Elaboração dos diagramas: A criação dos diagramas UML de classes e de casos de uso ficará sob a responsabilidade do gestor de projeto, que tem a visão global do sistema e será o responsável por manter uma comunicação constante com os demais membros da equipa. Essa interação contínua será fundamental para garantir que os diagramas sejam precisos e alinhados com o desenvolvimento real do sistema.
+Desenvolvimento de UI/UX: O design da interface será focado em facilitar a navegação e promover uma experiência intuitiva para o utilizador. A equipa de design concentrar-se-á na criação de uma interface simples e clara, com uma experiência de utilização agradável e sem obstáculos.
 
+Daily Scrum Meeting
+Ao final do sprint, será importante gerar um relatório de progresso ou uma documentação estruturada, comparando o que foi realizado com os objetivos estabelecidos no início do sprint. Esse relatório ajudará a avaliar o andamento do projeto e a identificar ajustes necessários para as próximas etapas.
 
-UML de classes
-O UML de classes vai representar a estrutura do nosso sistema, descrevendo as classes e o seu envolvimento entre elas. Foi importante no nosso trabalho pois facilitou a visualização dos componentes e as suas interações. Além disso é muito útil também na distribuição de tarefas e vai promover uma transição mais fácil e simples para o código.
+Sprint Review
+O Sprint 2 foi bem-sucedido e todas as tarefas propostas foram cumpridas dentro do prazo, sem grandes dificuldades. A fase foi mais voltada à criação de bases sólidas para o sistema, com foco na arquitetura e na interface do utilizador. Embora o trabalho tenha sido preliminar, com o objetivo de preparar o terreno para o desenvolvimento técnico futuro, os resultados obtidos permitem que o projeto avance para fases mais complexas com um bom entendimento das suas necessidades e requisitos.
 
+Sprint Retrospective
+Ao longo do Sprint 2, a equipa teve a oportunidade de refletir sobre o trabalho realizado e identificar os pontos fortes e áreas de melhoria. Foram discutidas as limitações pessoais de cada membro da equipa, e uma revisão das responsabilidades foi feita para garantir que cada pessoa pudesse focar nas tarefas em que se sentia mais confortável e produtiva. Este processo foi fundamental para criar um ambiente colaborativo e garantir que as competências individuais fossem aproveitadas ao máximo, criando uma dinâmica de equipa mais eficiente e equilibrada.
 
-UML de casos de Uso
-O UML de casos de uso representou graficamente as interações entre os Users do nosso sistema, mostrando como se podem “movimentar” dentro do nosso sistema. Foi usado para mostrar as principais funcionalidades do sistema. O UML de casos de uso foi uma ferramenta importante para otimizar as características do sistema e para fazer com que o User tenha uma melhor experiencia.
-
-UI/UX
-A UI/UX foram essenciais para criar sistemas funcionais e agradáveis. Na UI focamo-nos no design visual e na organização dos elementos, enquanto na UX tentamos apenas oferecer uma experiência eficiente e simples. Optamos por Interfaces intuitivas aumentando a facilidade no uso das mesmas. E no projeto, o foco foi desenvolver interfaces claras e simples com objetivo de que mesmo que um User não esteja envolvido na área consiga na mesma usar o sistema sem problema nenhum
-
-
-Conclusão 
-Durante a Sprint 2, conseguimos abordar sem problema os principais temas do trabalho UML de classes, UML de Casos de Uso e UI/UX. Através do bom trabalho em equipa e compreensão de todos não tivemos problemas em dividir as tarefas de modo em que cada um abordasse o tema que se sentia mais confortável. O UMLde classes foi fundamental para estruturar o sistema, facilitando a transição para o código e proporcionando uma visão simples e clara dos componentes e suas interações. Já o Diagrama de Casos de Uso  permitiu-nos identificar as funcionalidades principais e garantir que as necessidades dos users fossem atendidas de forma prática e simples. Por fim, a aplicação de UI/UX contribuiu para o desenvolvimento de um sistema funcional, intuitivo e acessível, focado em oferecer uma experiência satisfatória e simples para qualquer user.
-Como resultado, esta Sprint representou um avanço significativo no  do projeto, criando bases sólidas para as próximas etapas e garantindo a qualidade e usabilidade do sistema.
-  
