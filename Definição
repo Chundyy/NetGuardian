@@ -1,1 +1,94 @@
 
+DEFINIÇÃO 
+
+LPL (Levantamento de requisitos / Propriedade Intelectual / Limitações do produto ) 
+
+
+No levantamento de requisitos do software, garantir a Confidencialidade é essencial. O sistema deve controlar acessos, implementar autenticação robusta e proteger dados com criptografia em trânsito e em repouso. 
+
+Para assegurar a Integridade, é necessário verificar a autenticidade dos dados com assinaturas digitais e funções de hash. Registros de alterações e auditorias são fundamentais para rastreabilidade. 
+
+A Disponibilidade deve ser garantida com sistemas redundantes, backups regulares e planos de recuperação de desastres. O software precisa atender a altos volumes de usuários sem interrupções. 
+
+A Política de Segurança e Privacidade Pública deve ser clara e acessível. Inclui a proteção de dados conforme a legislação e a comunicação transparente com os utilizadores. 
+
+O software pode enfrentar limitações como a necessidade de atualizações constantes para lidar com novas ameaças e custos elevados de desenvolvimento e manutenção. Além disso, pode ser complexo para utilizadores não técnicos e ter dificuldades de integração com sistemas legados. Ataques sofisticados, como exploits zero-day, também podem representar desafios (Um exploit zero-day é um vetor de ataque cibernético que tira proveito de uma falha de segurança desconhecida ou não corrigida em software, hardware ou firmware.) 
+
+ 
+
+
+Planeamento do Projecto 
+
+O nosso público-alvo são micro, pequenas e médias empresas, que, apesar do seu tamanho, enfrentam grandes desafios no combate às ameaças digitais. Estas organizações, fundamentais para a economia, precisam de soluções de cibersegurança acessíveis e ajustadas às suas necessidades. Queremos ser um parceiro confiável, oferecendo proteção para os seus dados, clientes e operações. O nosso objetivo é ajudar estas empresas a crescer e inovar com confiança. Acima de tudo, trabalhamos para proteger o futuro destas organizações. 
+
+ 
+
+Recursos Humanos (HR) 
+
+Desenvolvimento Backend e Detecção 
+
+Competências Necessárias: 
+
+Programadores com experiência em algoritmos de detecção de ameaças (Machine Learning, IA, ou análise estatística). 
+
+Engenheiros de Software para criar e gerenciar warnings e relatórios. 
+
+Especialistas em monitoramento de eventos (analistas de cibersegurança). 
+
+Pessoas Chave: 
+
+Gonçalo Leitão e Diogo Silva com foco em desenvolvimento técnico. 
+
+
+
+ 
+
+Desenvolvimento Frontend e Interface do Usuário 
+
+Competências Necessárias: 
+
+Desenvolvedores Frontend com experiência em design de interfaces e experiência do usuário (UX/UI). 
+
+Especialistas em integração de notificações em tempo real. 
+
+Engenheiros de software para desenvolvimento de ferramentas de auxílio ao usuário. 
+
+Pessoas Chave: 
+
+João Reis e Diogo Oliveira colaboração para integração frontend-backend. 
+
+ 
+
+Gestão de Segurança e Eliminação de Ameaças 
+
+ 
+
+Competências Necessárias: 
+
+Especialistas em resposta a incidentes de cibersegurança. 
+
+Analistas de segurança para implementar regras de eliminação de ameaças. 
+
+Técnicos experientes em sistemas de quarentena e recuperação. 
+
+Pessoas Chave: 
+
+André Carvalhais e Gonçalo Leitão lideram a coordenação de segurança. 
+
+ 
+
+Infraestrutura, Proteção e Monitoramento Contínuo 
+
+ 
+
+Competências Necessárias: 
+
+Engenheiros de redes para configurar e gerenciar VPNs, Firewalls e políticas de segurança. 
+
+Analistas de desempenho e segurança para monitoramento contínuo. 
+
+Técnicos em backup e recuperação para gerenciar integridade de dados. 
+
+Pessoas Chave: 
+
+João Reis, Diogo Silva e Diogo Oliveira, indicando suporte técnico avançado. 
