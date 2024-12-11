@@ -1,0 +1,24 @@
+DIAGRAMA DE CLASSES
+
+User conecta-se com O Relatorio De Seguranca, sugerindo que os usuários interagem com relatórios de segurança.
+Relatorio e Alerta são subclasses de RelatorioDeSeguranca, indicando especializações para diferentes tipos de relatórios.
+O Incident está ligado à análise e geração de relatórios de incidentes.
+O ReportExport está relacionado à exportação de relatórios em diferentes formatos (PDF ou CSV).
+O ConfigSistema gerencia as configurações do sistema.
+
+DIAGRAMA DE CLASSES
+
+Threat relaciona-se com a Deteção, mostrando os dados sobre as ameaças.
+A Detecção gera informações para a classe Relatório.
+O Relatório interage com Data para armazenar e recuperar dados históricos.
+A MachineLearning é utilizado por Algoritmo Detecção para treinar e ajustar modelos.
+O Algoritmo Detecção está integrado com o Sistema Detecção.
+O Sistema Detecção gerencia notificações enviadas pela classe Notificação.
+
+
+
+DIAGRAMA DE USO
+
+O diagrama representa o fluxo de atividades de um sistema que inclui usuários regulares,
+ administradores e as funções automatizadas do sistema de segurança, abrangendo desde treinamentos e
+ testes de segurança até á geração de relatórios e gestão de ameaças.
