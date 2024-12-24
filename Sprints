@@ -39,7 +39,7 @@ Sprint Retrospective
 Percebemos as limitações pessoais de cada elemento da equipa e promovemos um espaço para as expor abertamente. Identificámos as áreas em que cada um se sente mais confortável a trabalhar e avaliámos se há necessidade de ajustar posições ou responsabilidades para melhor alinhar as competências individuais com as tarefas atribuídas. Este passo foi fundamental para garantir um ambiente colaborativo e equilibrado. 
 
 
-                                                       *** Mudança de Script ***
+                                                       *** Mudança de Sprint ***
 
 ##Sprint 01
 
@@ -94,7 +94,7 @@ Sprint Retrospective
 Percebemos as limitações pessoais de cada elemento da equipa e promovemos um espaço para as expor abertamente. Identificámos as áreas em que cada um se sente mais confortável a trabalhar e avaliámos se há necessidade de ajustar posições ou responsabilidades para melhor alinhar as competências individuais com as tarefas atribuídas. Este passo foi fundamental para garantir um ambiente colaborativo e equilibrado. 
  
 
-                                                        *** Mudança de Script ***
+                                                        *** Mudança de Sprint ***
 
 
 ##Sprint 02
@@ -140,3 +140,81 @@ O Sprint 2 foi bem-sucedido e todas as tarefas propostas foram cumpridas dentro 
 Sprint Retrospective
 Ao longo do Sprint 2, a equipa teve a oportunidade de refletir sobre o trabalho realizado e identificar os pontos fortes e áreas de melhoria. Foram discutidas as limitações pessoais de cada membro da equipa, e uma revisão das responsabilidades foi feita para garantir que cada pessoa pudesse focar nas tarefas em que se sentia mais confortável e produtiva. Este processo foi fundamental para criar um ambiente colaborativo e garantir que as competências individuais fossem aproveitadas ao máximo, criando uma dinâmica de equipa mais eficiente e equilibrada.
 
+                                                        *** Mudança de Sprint ***
+
+
+##Sprint 03
+      
+Sprint 3 
+
+ 
+
+No 3.º Sprint, é altura de “meter mãos à obra” e começar o desenvolvimento prático do projeto. Nesta fase, iremos trabalhar de forma superficial em algumas áreas, enquanto noutras será necessário aprofundar o conhecimento e a aplicação, garantindo uma base sólida para o progresso das próximas etapas.  
+
+ 
+
+Sprint Backlog 
+
+ 
+
+Finalizar e aprimorar os diagramas, tanto de casos de uso como de classes. (Responsável: Carvalhais) 
+
+Iniciar os pontos chave do projeto: 
+
+"Desenvolvimento" (Carvalhais) 
+
+"Entrega" (Didas e Jonas) 
+
+"Avaliação" (Carvalhais e Leitão) 
+
+Elaborar um levantamento de requisitos mais detalhado, aprofundando as especificações e necessidades do projeto. (Responsáveis: Carvalhais e Leitão) 
+
+Dar início à estrutura do código da UI da aplicação, criando a base para a interface do utilizador. (Responsáveis: Jonas e Didas) 
+
+Desenvolver o modelo de machine learning para phishing, utilizando a biblioteca Hugging Face. (Responsável: Gonçalo Leitão) 
+
+Implementar escalonamento de confidencialidade, criando acessos diferenciados por login para os diferentes softwares, garantindo que estejam interligados. (Responsável: Carvalhais)		 
+
+
+ 
+
+Sprint Planning 
+
+ 
+
+Neste sprint, o foco será em aplicar a parte teórica desenvolvida nos sprints anteriores, avançando tanto na área do frontend como do backend. O objetivo é começar a construir algo testável, que permita validar o progresso do projeto e identificar eventuais ajustes necessários. 
+
+Além disso, será necessário finalizar os diagramas de classes e os diagramas de casos de uso. Estes deverão ser concluídos no prazo máximo de 2 a 3 dias, garantindo que estejam prontos e entregues na data estipulada. 
+
+Para assegurar o sucesso desta etapa, será crucial: 
+
+Definir prioridades claras para as tarefas de frontend e backend, focando na criação de funcionalidades essenciais. 
+
+Realizar testes iniciais assim que partes do código estejam implementadas, para validar a funcionalidade e corrigir problemas rapidamente. 
+
+Garantir colaboração eficiente entre os responsáveis pelos diagramas e as equipas técnicas, de forma a alinhar as soluções com as necessidades práticas do projeto. 
+
+Este sprint marca a transição de uma abordagem mais conceptual para uma execução prática, exigindo um maior compromisso com prazos e qualidade técnica. 
+
+
+ 
+
+Daily Scrum Meeting 
+ 
+No final destas duas semanas, será fundamental elaborar um relatório de progresso ou realizar uma passagem estruturada de informação para documentar o que foi realizado em comparação com os objetivos definidos 
+
+
+
+SprintReview 
+ 
+Este sprint foi bastante produtivo, com todas as tarefas previstas para esta etapa concluídas com sucesso. Além disso, as tarefas destinadas a serem iniciadas foram bem adiantadas, criando uma base sólida para os próximos sprints. Este progresso garante que, nas fases seguintes, será possível trabalhar diretamente com material já desenvolvido, sem qualquer tipo de atraso ou dependência, mantendo o ritmo e a eficiência do projeto. 
+ 
+ 
+
+Sprint Retrospective 
+ 
+A nível de pesquisa e execução, todas as tarefas atribuídas foram realizadas de forma competente e entregues dentro dos prazos estipulados, refletindo um bom desempenho da equipa. 
+
+No entanto, identificou-se uma oportunidade de melhoria na comunicação interna entre os diferentes cargos. Um alinhamento mais eficaz e frequente poderá otimizar ainda mais o fluxo de trabalho e evitar potenciais mal-entendidos ou atrasos em futuras etapas do projeto. 
+
+ 
